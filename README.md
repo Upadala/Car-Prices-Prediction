@@ -150,8 +150,4 @@ For further information or collaboration opportunities, please reach out:
 
 ---
 
-Would you also like me to format a small **professional GitHub repository description** (the short one-line description under your repository title)? 🎯  
-Example:  
-> "Machine learning model for predicting used car prices using Random Forest and XGBoost with EDA and feature engineering."
 
-Want me to write a few formal options for you? 🚀
