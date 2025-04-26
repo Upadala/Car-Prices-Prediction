@@ -144,10 +144,4 @@ For further information or collaboration opportunities, please reach out:
 
 ---
 
-# End of Document
-
----
-
----
-
 
